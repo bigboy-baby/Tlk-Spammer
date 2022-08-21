@@ -1,3 +1,4 @@
+#Code by bigboybigboi#0001 skid if ur homosexual (ew)
 import requests
 import random
 import string
